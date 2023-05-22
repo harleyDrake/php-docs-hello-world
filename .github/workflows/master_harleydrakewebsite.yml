@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'harleyDrakeWebsite'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_73454AD814A949FD9B4AAF0F7844A618 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C87BB7F4D0AA4B758BD692083179CB25 }}
           package: .
